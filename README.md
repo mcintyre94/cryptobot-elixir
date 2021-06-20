@@ -1,4 +1,3 @@
-# Hedgehog
+# Crypto bot in Elixir
 
-**TODO: Add description**
-
+Repo to follow along with Elixir book https://www.elixircryptobot.com
